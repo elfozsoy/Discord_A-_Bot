@@ -1,0 +1,10 @@
+0 Carl Johnson
+1 Frisk
+2 Jinx
+3 Kris
+4 Lee
+5 Sackboy
+6 Sonic
+7 Steve
+8 Super Mario
+9 Scorpion
